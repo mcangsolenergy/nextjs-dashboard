@@ -1,3 +1,3 @@
 export default function Page() {
-    return <p>Dashboard page puki ng ina mo</p>
+    return <p>Dashboard page</p>
 }
